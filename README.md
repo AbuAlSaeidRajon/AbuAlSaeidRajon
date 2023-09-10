@@ -11,7 +11,7 @@
 - 🧰 I love experimenting with different technologies, so expect a mix of projects.
 
 ## How to Reach Me
-- 📫 You can reach out to me via email at khanrajon5@gmail.com or via sending whatsapp message by +358 402573150
+- 📫 You can reach out to me via email at khanrajon5@gmail.com or via sending whatsapp message on +358 402573150
 - 💬 Feel free to send me a message here on GitHub.
 
 ## Let's Collaborate!
