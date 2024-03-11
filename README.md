@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/inkedin.com/in/md-abu-al-saeid-b4a306290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inkedin.com/in/md-abu-al-saeid-b4a306290/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-abu-al-saeid-b4a306290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inkedin.com/in/md-abu-al-saeid-b4a306290/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mrrajon.khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mrrajon.khan" height="30" width="40" /></a>
 <a href="https://instagram.com/myself_rajon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myself_rajon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@abualsaeidrajon5592?si=mxiwl1gpijdlk2vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@abualsaeidrajon5592?si=mxiwl1gpijdlk2vy" height="30" width="40" /></a>
+<a href="https://youtube.com/@abualsaeidrajon5592?si=mXiWL1GpIjdlk2Vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@abualsaeidrajon5592?si=mxiwl1gpijdlk2vy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
