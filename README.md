@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, PHP, Ui & Ux Design React**
+- 🌱 I’m currently learning **JavaScript, PHP, Ui & Ux Design, React**
 
 - 👯 I’m looking to collaborate on **If you have an interesting project in mind, want to discuss programming concepts, or simply want to connect with fellow developers, don't hesitate to reach out. Together, we can create amazing things!**
 
