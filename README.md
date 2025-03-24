@@ -7,13 +7,13 @@ Hi 👋, I'm Md Abu Al Saeid.<br>A passionate Full Stack Web Developer from Finl
 
 - 👯 I’m looking to collaborate on **If you have an interesting project in mind, want to discuss programming concepts, or simply want to connect with fellow developers, don't hesitate to reach out. Together, we can create amazing things!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbuAlSaeidRajon](https://github.com/AbuAlSaeidRajon)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AbuAlSaeidRajon)
 
 - 💬 Ask me about **JavaScript, PHP, Ui & Ux Design React**
 
 - 📫 How to reach me **You can reach out to me via email at khanrajon5@gmail.com or via sending WhatsApp message on +358 451792722. Feel free to send me a message here on GitHub.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZjVHtR7NQlbXMWdgtphukPWq0SqTDwxA/view?usp=drive_link](https://abualsaeidrajon.github.io/My_Complete_Portfolio/)
+- 📄 Know about my experiences [My Portfolio](https://abualsaeidrajon.github.io/My_Complete_Portfolio/)
 
 
 ## 🌐 Socials:
